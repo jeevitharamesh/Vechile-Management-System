@@ -4,11 +4,9 @@ The project objective is to create online web application for car repair and ser
 ## Technology
 * Spring Boot
 * Spring Data JPA
-* MySQL
+* H2 Database
 * Maven
-* Thymeleaf
-* Javascript
-* BootStrap
+  
 
 #### Features available based on the user role
 * Admin
